@@ -1,6 +1,8 @@
 Telegram Encryption Bot
 Introduction
-Welcome to the Telegram Encryption Bot! This bot is built with Node.js and allows users to encrypt and decrypt messages as well as code snippets using AES and RSA encryption algorithms. It leverages the crypto library for encryption and node-telegram-bot-api for seamless integration with Telegram.
+Welcome to the Telegram Encryption Bot! This bot is built with Node.js
+and allows users to encrypt and decrypt messages as well as code snippets using AES and RSA encryption algorithms. It leverages the crypto library for encryption and 
+node-telegram-bot-api for seamless integration with Telegram.
 
 Features
 Message Encryption: Encrypt your messages using the AES algorithm.
