@@ -18,11 +18,5 @@ npm install
 You can replace the word 'BOT TOKEN' with your telgram bot token
 
 command :
-
-Send /encrypt <your message> to encrypt a message.
-Send /decrypt <encrypted message> to decrypt a message.
-Send /rsa_encrypt <your message> to encrypt a message with RSA.
-Send /rsa_decrypt <encrypted message> to decrypt a message with RSA.
-Send /encrypt_code <your code> to encrypt a code snippet.
-Send /support to receive support information.
+![Screenshot 2024-10-19 195353](https://github.com/user-attachments/assets/a411ff96-25b8-41a3-9d1a-25bc9c944dee)
 
