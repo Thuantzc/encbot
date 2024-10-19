@@ -9,7 +9,7 @@ With a user-friendly interface, you can quickly access encryption features right
 
 Here's how to get started :> 
 
-git clone https://github.com/Thuantzc/encbot/
+**git clone** **https://github.com/Thuantzc/encbot/**
 
 cd encbot
 
