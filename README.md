@@ -1,4 +1,4 @@
-Telegram Encryption Bot
+# **Telegram Encryption Bot**
 
 The Telegram Encryption Bot is a simple yet powerful tool designed to help users securely encrypt 
 and decrypt messages and code snippets. Built with Node.js,
